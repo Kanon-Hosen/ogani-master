@@ -1,0 +1,15 @@
+
+@import './variable';
+@import './hero';
+@import './products';
+@import './latestproducts';
+@import './blog';
+@import './footer';
+html{
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+body{
+    padding: 0rem;
+    margin: 0rem;
+}
